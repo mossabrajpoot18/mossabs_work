@@ -4,7 +4,7 @@ ok
 teamworkkk
 git hub assigment 
 <br>
-group work
+team work
 <br>
 <!DOCTYPE html>
 <html lang="en">
