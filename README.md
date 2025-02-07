@@ -13,6 +13,7 @@ team work
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My First Web Page</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file -->
+    
     <script defer src="script.js"></script> <!-- Link to an external JavaScript file -->
 </head>
 <body>
@@ -22,6 +23,14 @@ team work
     
     <nav>
         <ul>
+        how to push
+        git init
+        git add .
+        git commit
+        git branch
+        git remote add origin
+        git push
+        git add .
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Contact</a></li>
